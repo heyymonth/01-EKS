@@ -5,7 +5,7 @@ eksctl create cluster --name hemant-personal-cluster --fargate
 
 # Create EKS cluster using yaml
 
-**Refer to clsuter.yaml file**
+**Refer to cluster.yaml file**
 ```yaml
 eksctl create cluster -f cluster.yaml
 ```
