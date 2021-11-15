@@ -1,5 +1,5 @@
 # Create EKS cluster
-```yaml
+```shell
 eksctl create cluster --name hemant-personal-cluster --fargate
 ```
 
