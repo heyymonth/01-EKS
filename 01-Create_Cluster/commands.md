@@ -16,6 +16,6 @@ eksctl delete cluster --name hemant-personal-cluster
 ```
 
 # Describe configmaps
-```yaml
+```bash
 kubectl describe configmap -n kube-system aws-auth
 ```
