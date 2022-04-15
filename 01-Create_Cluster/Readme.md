@@ -1,6 +1,8 @@
 # Create EKS cluster
 ```shell
 eksctl create cluster --name hemant-personal-cluster --fargate
+
+eksctl create cluster --name my-cluster --region region-code
 ```
 
 # Create EKS cluster using yaml
